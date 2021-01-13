@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Marcos
+### Hi there 👋, 
+### my name is Marcos
 I am currently studying Computer Science at Make School
 
 Skills: Python / Dart / JS / HTML / CSS
