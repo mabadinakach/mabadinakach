@@ -1,10 +1,13 @@
 ### Hi there 👋 
-### my name is Marcos
-I am currently studying Computer Science at Make School
+### I am Marcos
+
+Currently studying Computer Science at Make School
 
 Skills: Python / Dart / JS / HTML / CSS
 
-- 🌱 I’m currently learning Data Science 
+- 🌱   Future Data Scientist
+- 💬   Ask me about music, technology, math, science and programming
+- 📫   How to reach me: <a href="mailto:marcosaba2121@gmail.com">email</a>
 
 <p> 
   Visitor count<br>
