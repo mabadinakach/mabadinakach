@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ### I am Marcos
 
-Currently studying Computer Science at Make School
+Currently studying Computer Science at the University of San Francisco
 
-Skills: Python / Dart / JS / HTML / CSS
+Skills: Python / Java / C / Dart / JS / HTML / CSS
 
 - 🌱   Future Data Scientist
 - 💬   Ask me about music, technology, math, science and programming
