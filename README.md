@@ -1,12 +1,12 @@
-### Hi there 👋 
-### I am Marcos
+### Hello there 👋 
+### My name is Marcos
 
-Currently studying Computer Science at the University of San Francisco
+Currently studying Computer Science @ University of San Francisco
 
 Skills: Python / Java / C / Dart / JS / HTML / CSS
 
-- 🌱   Future Data Scientist
-- 💬   Ask me about music, technology, math, science and programming
+- 🌱   Interested in Machine Learning and AI
+- 💬   Lets talk about Music, Technology, Math, Philosophy, Science and Computer Science
 - 📫   How to reach me: <a href="mailto:marcosaba2121@gmail.com">email</a>
 
 <p> 
