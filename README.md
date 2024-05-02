@@ -1,9 +1,9 @@
 ### Hello there 👋 
 ### My name is Marcos
 
-Currently studying Computer Science @ University of San Francisco
+Currently working as a Software Engineer at Microsoft
 
-Skills: Python / Java / C / Dart / JS / HTML / CSS
+Skills: Python / Java / C / React / Dart / Swift 
 
 - 🌱   Interested in Machine Learning and AI
 - 💬   Lets talk about Music, Technology, Math, Philosophy, Science and Computer Science
